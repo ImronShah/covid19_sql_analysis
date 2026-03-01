@@ -12,7 +12,7 @@ This project explores the COVID-19 pandemic through three lenses: **testing capa
 
 ## Interactive Dashboard
 
-Explore testing capacity, death rates, and policy responses across 150+ countries. The dashboard includes a global map, timeline of deaths, and continent comparisons.
+Exploring testing capacity, death rates, and policy responses across 150+ countries. The interactive dashboard features three key visualisations. A global testing map colours countries by testing intensity, revealing the stark contrast between high-testing nations in Europe and the Gulf and the minimal testing across much of Africa. A line chart tracks global deaths per million over time, clearly showing the three major pandemic waves: April 2020, January 2021 (the deadliest), and February 2022. Finally, a continent comparison bar chart displays average death rates side by side, highlighting Europe's disproportionate burden and Africa's implausibly low figures that reflect under-reporting rather than viral avoidance.
 
 **[View the Interactive Dashboard on Tableau Public Here](https://public.tableau.com/views/COVID-19Dashboard_17723330081750/COVID-19GlobalAnalysis?:language=en-US&:sid=&:redirect=auth&publish=yes&showOnboarding=true&:display_count=n&:origin=viz_share_link)**
 
