@@ -73,6 +73,14 @@ Three distinct groups of countries emerge from the analysis:
 
 ---
 
+## Methodology Note
+
+**World Map:** Shows cumulative total deaths per million (final pandemic toll per country as of March 2026).
+
+**Line Chart & Continent Bar Chart:** Show daily averages with each country weighted equally. Small countries (e.g., Faroe Islands) have same influence as large countries (e.g., India). This approach is designed for comparing country-level policy responses.
+
+---
+
 ## Tools Used
 
 - **SQLite** – Data cleaning, exploration and analysis
@@ -92,6 +100,8 @@ Three distinct groups of countries emerge from the analysis:
 
 ## Project Status
 
-**Completed March 2026**
+Completed: March 2026
+
+Latest update: April 2026
 
 
